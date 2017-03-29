@@ -14,4 +14,10 @@ window.addEventListener("load", function (e) {
   contraseña.innerText   = ObjetoPaciente.contraseña;
   e.preventDefault();
 
+  var editar = document.getElementById("editar-perfil");
+  editar.addEventListener('click',function(e) {
+    e.preventDefault();
+
+    window.location="../Editar/editar.html"
+    });
   });

@@ -1,0 +1,14 @@
+#div-registrar{
+  text-align: center;
+  margin: 100px;
+}
+label{
+  display: inline-block;
+  width: 100px;
+}
+span{
+  font-size: xx-small;
+}
+body{
+  text-align: center;
+}
