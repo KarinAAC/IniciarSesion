@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+}
+#pagina-principal{
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+}
