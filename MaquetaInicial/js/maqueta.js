@@ -4,8 +4,8 @@ window.addEventListener('load',function() {
 
   registrate.addEventListener('click',function(e) {
     e.preventDefault();
-    //window.location = "";
-    
+    window.location = "../Registrar/registrar.html";
+
   });
 
   var iniciar = document.getElementById("iniciar");
